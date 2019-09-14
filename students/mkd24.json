@@ -1,0 +1,14 @@
+{
+    "firstName": "Miriam",
+    "lastName": "Schirmer",
+    "nickName": "",
+    "privateName": false,
+    "picture": "images/mkd.jpg",
+    "privatePicture": false,
+    "email": "m.schirmer@mail.utoronto.ca",
+    "privateEmail": false,
+    "github": "mkd24",
+    "privateGithub": false,
+    "superpower" : "can do things a lot faster after a cup of coffee",
+    "academicinterests": "crime in history, contemporary history, social psychology, open science"
+  }
